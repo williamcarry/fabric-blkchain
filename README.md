@@ -1,5 +1,5 @@
 # Hyperledger Fabric [![join the chat][rocketchat-image]][rocketchat-url]
-
+联盟链！是联盟链，联盟链
 [rocketchat-url]: https://chat.hyperledger.org/channel/fabric
 [rocketchat-image]: https://open.rocket.chat/images/join-chat.svg
 
